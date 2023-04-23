@@ -26,34 +26,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\faren\\.nuget\\packages\\": {}
+    "/Users/aloncello/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faren\\OneDrive\\Escritorio\\ÑA - copia\\PDV-AgenciaMotos\\WINFORM\\WINFORM.csproj",
+      "projectUniqueName": "/Users/aloncello/code/dotNET/poo/extraordinario2023/PDV_AgenciaMotos/PDV-AgenciaMotos/WINFORM/WINFORM.csproj",
       "projectName": "WINFORM",
-      "projectPath": "C:\\Users\\faren\\OneDrive\\Escritorio\\ÑA - copia\\PDV-AgenciaMotos\\WINFORM\\WINFORM.csproj",
-      "packagesPath": "C:\\Users\\faren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faren\\OneDrive\\Escritorio\\ÑA - copia\\PDV-AgenciaMotos\\WINFORM\\obj\\",
+      "projectPath": "/Users/aloncello/code/dotNET/poo/extraordinario2023/PDV_AgenciaMotos/PDV-AgenciaMotos/WINFORM/WINFORM.csproj",
+      "packagesPath": "/Users/aloncello/.nuget/packages/",
+      "outputPath": "/Users/aloncello/code/dotNET/poo/extraordinario2023/PDV_AgenciaMotos/PDV-AgenciaMotos/WINFORM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\faren\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/aloncello/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\faren\\OneDrive\\Escritorio\\ÑA - copia\\PDV-AgenciaMotos\\CRUD\\CRUD.csproj": {
-              "projectPath": "C:\\Users\\faren\\OneDrive\\Escritorio\\ÑA - copia\\PDV-AgenciaMotos\\CRUD\\CRUD.csproj"
+            "/Users/aloncello/code/dotNET/poo/extraordinario2023/PDV_AgenciaMotos/PDV-AgenciaMotos/CRUD/CRUD.csproj": {
+              "projectPath": "/Users/aloncello/code/dotNET/poo/extraordinario2023/PDV_AgenciaMotos/PDV-AgenciaMotos/CRUD/CRUD.csproj"
             }
           }
         }
@@ -67,23 +65,7 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48",
-          "net481"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/aloncello/Library/Caches/VisualStudio/17.0/MSBuild/10783_2/RuntimeIdentifierGraph.json"
       }
     }
   }

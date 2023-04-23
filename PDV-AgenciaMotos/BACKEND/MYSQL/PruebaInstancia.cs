@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System;
-namespace CRUD.Objects
+namespace BACKEND.MySQL
 {
     public class PruebaInstancia
     {

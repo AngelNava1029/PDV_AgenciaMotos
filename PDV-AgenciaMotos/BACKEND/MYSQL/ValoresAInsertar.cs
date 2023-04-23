@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CRUD.Objects
+namespace CRUD.MySQL
 {
     public class ValoresAInsertar
     {
